@@ -8,10 +8,10 @@ body {
 
     background: radial-gradient(
         circle at center,
-        #0b1026 0%,
-        #050814 40%,
-        #02040a 70%,
-        #000000 100%
+        #ba55d3 0%,
+        #ba55d3 40%,
+        #ba55d3 70%,
+        #ba55d3 100%
     );
 
     min-height: 100vh;
