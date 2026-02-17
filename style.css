@@ -137,13 +137,13 @@ section p {
 }
 
 
-/* ===== キャラクター ===== */
+/* ===== メンバー ===== */
 
-.character {
+.member {
     margin-bottom: 30px;
 }
 
-.character h3 {
+.member h3 {
     font-size: 18px;
 }
 
