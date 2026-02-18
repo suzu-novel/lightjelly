@@ -273,11 +273,6 @@ body {
     z-index: 9999;
 }
 
-/* メニューは完全に隠す */
-#menu-area {
-    display: none !important;
-}
-
 /* 表示用 */
 #menu-area.show {
     display: block !important;
